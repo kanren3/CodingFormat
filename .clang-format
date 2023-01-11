@@ -3,6 +3,7 @@ SortIncludes: false
 BasedOnStyle: WebKit
 AlignAfterOpenBracket: Align
 BinPackArguments: false
+AlignConsecutiveMacros: true
 BreakBeforeBraces: Custom
 BraceWrapping:
     AfterCaseLabel: false
